@@ -1,0 +1,22 @@
+.div_1{
+    text-align: start;
+}
+.div_2{
+    text-align: start;
+    margin-left: 20px;
+}
+.div_3{
+    text-align: start;
+    margin-left: 50px;
+   
+}
+
+.icons{
+display: flex;
+justify-content: space-between;
+font-size: 50px;
+}
+.to
+{
+font-size:15px;
+}
